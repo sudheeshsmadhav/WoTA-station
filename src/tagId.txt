@@ -1,0 +1,83 @@
+
+   //PANASONIC SEEKIT
+   tag_id = "e2:24:f4:21:f6:f5"; //tag1
+   tag_id = "f3:7a:4c:4d:f1:6a"; //tag2 
+   tag_id = "e2:3e:a9:07:1d:e0"; //tag3 
+   tag_id = "f9:43:dc:76:87:40"; //tag4   -- not working
+   tag_id = "cc:50:89:7a:14:3d"; //tag5
+   tag_id = "ff:7b:dc:aa:7a:11"; //tag6
+   tag_id = "d7:88:8e:03:c2:b3"; //tag7
+   tag_id = "dd:07:6f:02:93:cf"; //tag8
+   tag_id = "cf:7c:6c:36:76:95"; //tag9
+   tag_id = "e0:d4:09:da:e3:0a"; //tag10
+   tag_id = "df:78:21:27:20:37"; //tag11
+   tag_id = "ed:52:c1:89:82:df"; //tag12
+   tag_id = "d9:22:fd:70:c2:af"; //tag13
+   tag_id = "ca:b0:3a:86:77:ef"; //tag14
+   tag_id = "c5:d2:49:76:0a:13"; //tag15  -- not working
+   tag_id = "ee:30:14:01:b6:db"; //tag16
+   tag_id = "c6:11:01:48:5b:91"; //tag17  -- using as tag4 /model
+   tag_id = "de:74:2e:82:5e:05"; //tag18
+//-----------------------------------------------------------------------------------------------------
+
+
+//moko tags
+//-------------------------------------------//
+                 unique tag id     label 
+   tag1_id  = "e4:0c:9a:dd:c8:e4";  //mtag1
+   tag2_id  = "d4:1e:0d:e7:74:81";  //mtag2
+   tag3_id  = "e1:e2:62:82:f2:73";  //mtag3
+   tag4_id  = "fd:fc:ae:ba:36:a9";  //mtag4
+   tag5_id  = "e4:96:fd:53:65:3d";  //mtag5
+   tag6_id  = "ee:06:e1:41:06:8e";  //mtag6
+   tag7_id  = "c8:68:62:e4:34:1d";  //mtag7
+   tag8_id  = "f9:a7:b0:42:47:cd";  //mtag8
+   tag9_id  = "e1:49:3d:26:0f:ac";  //mtag9
+   tag10_id = "d3:5a:f5:a5:68:5f";  //mtag10
+   tag11_id = "c4:04:cc:f7:97:54";  //mtag11
+   tag12_id = "c5:3e:02:41:03:3d";  //mtag12
+   tag13_id = "ce:16:a1:a6:5d:39";  //mtag13
+   tag14_id = "e1:49:3d:26:0f:ac";  //mtag14
+   tag15_id = "e7:99:0a:25:13:3e";  //mtag15
+   tag16_id = "c5:90:18:27:c8:40";  //mtag16
+   tag17_id = "e4:62:3e:d0:85:dd";  //mtag17
+   tag18_id = "c6:1b:d0:8f:b0:ca";  //mtag18
+   tag19_id = "c5:89:85:44:06:56";  //mtag19
+   tag20_id = "c7:3f:aa:d6:60:8e";  //mtag20
+   tag21_id = "cd:29:9c:a5:39:97";  //mtag21 //bt
+   tag22_id = "c5:52:0f:7c:b5:20";  //mtag22 //bt
+
+//----------------------------------------------//
+for 3x3 layout
+
+shift 1
+   dinesh kumar   = "e4:0c:9a:dd:c8:e4";     //mtag1
+   munna kumar    = "d4:1e:0d:e7:74:81";     //mtag2
+   akilesh        = "e1:e2:62:82:f2:73";     //mtag3
+
+shift 2
+   naresh         = "fd:fc:ae:ba:36:a9";     //mtag4
+   haseena        = "e4:96:fd:53:65:3d";     //mtag5
+   nanthini       = "ee:06:e1:41:06:8e";     //mtag6
+
+shift 3
+   mintukumar     = "c8:68:62:e4:34:1d";     //mtag7
+   bablesh        = "f9:a7:b0:42:47:cd";     //mtag8
+   Sanjeev        = "e1:49:3d:26:0f:ac";     //mtag9
+
+//----------------------------------------------//
+
+
+   tag10_id = "d3:5a:f5:a5:68:5f";  //mtag10
+   tag11_id = "c4:04:cc:f7:97:54";  //mtag11
+   tag12_id = "c5:3e:02:41:03:3d";  //mtag12
+   tag13_id = "ce:16:a1:a6:5d:39";  //mtag13
+   tag14_id = "e1:49:3d:26:0f:ac";  //mtag14
+   tag15_id = "e7:99:0a:25:13:3e";  //mtag15
+   tag16_id = "c5:90:18:27:c8:40";  //tag16
+   tag17_id = "e4:62:3e:d0:85:dd";  //mtag17
+   tag18_id = "c6:1b:d0:8f:b0:ca";  //mtag18
+   tag19_id = "c5:89:85:44:06:56";  //mtag19
+   tag20_id = "c7:3f:aa:d6:60:8e";  //mtag20
+   tag21_id = "cd:29:9c:a5:39:97";  //mtag21
+   tag22_id = "c5:52:0f:7c:b5:20";  //mtag22

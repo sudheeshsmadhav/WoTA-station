@@ -1,0 +1,14 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "PlatformIO",
+			"task": "Clean (esp32dev)",
+			"problemMatcher": [
+				"$platformio"
+			],
+			"group": "clean",
+			"label": "PlatformIO: Clean (esp32dev)"
+		}
+	]
+}
